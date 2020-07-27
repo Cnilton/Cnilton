@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hi, I'm Caio ✌
 
-<!--
-**Cnilton/Cnilton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑 About me
 
-Here are some ideas to get you started:
+- I'm a Front-End Developer who is in love with Javascript and Typescript 💕
+- Began my jorney as Programmer back in 2016, with Android's native development (Java), and since then my love for coding has only grown.
+- Currently working as Front-End Developer with React-Native and ReactJS;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Skills
+
+- Java (Android-Studio): 3-4 years
+- React-Native: 2-3 years
+- ReactJS: 2 years
+- NodeJS: 1-2 years
+- Git: 2-3 years
+- Jest 0-1 year
+
+### 📫 How to reach me
+
+- E-mail: caioniltonlemosbarroso@gmail.com
+- [Facebook](https://www.facebook.com/caio.nilton)
+- [LinkedIn](https://www.linkedin.com/in/caio-nilton-lemos-barroso-79aa3981/)
+
+### 🚩 Objectives
+
+- Enhance knowledge with NodeJS to a higher level
+- TDD using Jest with NodeJS, ReactJS and React-Native
+

@@ -26,3 +26,8 @@
 - Enhance knowledge with NodeJS to a higher level
 - TDD using Jest with NodeJS, ReactJS and React-Native
 
+### Support me
+
+- It would be great if you can support me and my open source projects! ❤
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C33H4GG)

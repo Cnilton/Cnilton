@@ -9,10 +9,10 @@
 ### 👨‍💻 Skills
 
 - Java (Android-Studio): 3-4 years
-- React-Native: 2-3 years
-- ReactJS: 2 years
+- React-Native: 3-4 years
+- ReactJS: 3 years
 - NodeJS: 1-2 years
-- Git: 2-3 years
+- Git: 3-4 years
 - Jest 0-1 year
 
 ### 📫 How to reach me
@@ -23,8 +23,9 @@
 
 ### 🚩 Objectives
 
-- Enhance knowledge with NodeJS to a higher level
+- Enhance knowledge with NodeJS and ReactJS to a higher level
 - TDD using Jest with NodeJS, ReactJS and React-Native
+- Finish Rocketseat's Ignite courses.
 
 ### Support me
 

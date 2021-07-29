@@ -8,11 +8,11 @@
 
 ### 👨‍💻 Skills
 
-- Java (Android-Studio): 3-4 years
-- React-Native: 3-4 years
-- ReactJS: 3 years
+- Java (Android-Studio): 5-6 years
+- React-Native: 4-5 years
+- ReactJS: 4 years
 - NodeJS: 1-2 years
-- Git: 3-4 years
+- Git: 4-5 years
 - Jest 0-1 year
 
 ### 📫 How to reach me

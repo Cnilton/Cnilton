@@ -9,7 +9,7 @@
 ### 👨‍💻 Skills
 
 - Java (Android-Studio): 5-6 years
-- React-Native: 4-5 years
+- React-Native: 5-6 years
 - ReactJS: 4 years
 - NodeJS: 1-2 years
 - Git: 4-5 years
@@ -18,7 +18,6 @@
 ### 📫 How to reach me
 
 - E-mail: caioniltonlemosbarroso@gmail.com
-- [Facebook](https://www.facebook.com/caio.nilton)
 - [LinkedIn](https://www.linkedin.com/in/caio-nilton-lemos-barroso-79aa3981/)
 
 ### 🚩 Objectives

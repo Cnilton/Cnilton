@@ -8,7 +8,7 @@
 
 ### 👨‍💻 Skills
 
-- Java (Android-Studio): 5-6 years
+- Java (Android-Studio): 1-2 years
 - React-Native: 5-6 years
 - ReactJS: 4 years
 - NodeJS: 1-2 years

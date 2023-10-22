@@ -3,16 +3,16 @@
 ### 🧑 About me
 
 - I'm a Front-End Developer who is in love with Javascript and Typescript 💕
-- Began my jorney as Programmer back in 2016, with Android's native development (Java), and since then my love for coding has only grown.
-- Currently working as Front-End Developer with React-Native and ReactJS;
+- Began my journey as a Programmer back in 2016, with Android's native development (Java), and since then my love for coding has only grown.
+- Currently working as Mobile Tech Lead;
 
 ### 👨‍💻 Skills
 
 - Java (Android-Studio): 1-2 years
-- React-Native: 5-6 years
+- React-Native: 6-7 years
 - ReactJS: 4 years
 - NodeJS: 1-2 years
-- Git: 4-5 years
+- Git: 6-7 years
 - Jest 0-1 year
 
 ### 📫 How to reach me
@@ -22,9 +22,8 @@
 
 ### 🚩 Objectives
 
-- Enhance knowledge with NodeJS and ReactJS to a higher level
-- TDD using Jest with NodeJS, ReactJS and React-Native
-- Finish Rocketseat's Ignite courses.
+- Learn more about DevOps and Infra.
+- Tech lead and leadership courses.
 
 ### Support me
 

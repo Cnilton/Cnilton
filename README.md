@@ -4,16 +4,16 @@
 
 - I'm a Front-End Developer who is in love with Javascript and Typescript 💕
 - Began my journey as a Programmer back in 2016, with Android's native development (Java), and since then my love for coding has only grown.
-- Currently working as Mobile Tech Lead;
+- Currently working as a Mobile Tech Lead;
 
 ### 👨‍💻 Skills
 
-- Java (Android-Studio): 1-2 years
-- React-Native: 6-7 years
-- ReactJS: 4 years
+- Java (Android-Studio): 2-3 years
+- React-Native: 7-8 years
+- ReactJS: 5 years
 - NodeJS: 1-2 years
-- Git: 6-7 years
-- Jest 0-1 year
+- Git: 7-8 years
+- Jest 1-2 year
 
 ### 📫 How to reach me
 
@@ -27,7 +27,7 @@
 
 ### Support me
 
-- It would be great if you can support me and my open source projects! ❤
+- It would be great if you could support me and my open-source projects! ❤
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C33H4GG) 
 

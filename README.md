@@ -15,7 +15,7 @@
 - Git: 7-8 years
 - Jest 1-2 year
 
-### 👨‍💻 Currently learning
+### 📚 Currently learning
 
 - Flutter
 - Kotlin

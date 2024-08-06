@@ -15,6 +15,11 @@
 - Git: 7-8 years
 - Jest 1-2 year
 
+### 👨‍💻 Currently learning
+
+- Flutter
+- Kotlin
+
 ### 📫 How to reach me
 
 - E-mail: caioniltonlemosbarroso@gmail.com
